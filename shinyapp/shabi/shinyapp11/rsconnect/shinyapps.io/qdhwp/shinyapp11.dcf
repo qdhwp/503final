@@ -1,0 +1,12 @@
+name: shinyapp11
+title: shinyapp11
+username:
+account: qdhwp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 617518
+bundleId: 1764905
+url: https://qdhwp.shinyapps.io/shinyapp11/
+when: 1544859466.53621
+asMultiple: FALSE
+asStatic: FALSE
